@@ -1,0 +1,55 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "glm_dummy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glm_dummy-Debug-eb737c613baa98676f8f.json",
+					"name" : "glm_dummy",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mrkon/Desktop/Grafika 3D/Grafika 3D/Voyager/Dependencies/glm-0.9.9-a2/glm/out/build/windows-default",
+		"source" : "C:/Users/mrkon/Desktop/Grafika 3D/Grafika 3D/Voyager/Dependencies/glm-0.9.9-a2/glm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
